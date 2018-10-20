@@ -1,0 +1,9 @@
+D:\Proyek\Program\PCDApps2\PCDApps2\bin\Debug\PCDApps2.exe
+D:\Proyek\Program\PCDApps2\PCDApps2\bin\Debug\PCDApps2.pdb
+D:\Proyek\Program\PCDApps2\PCDApps2\obj\Debug\PCDApps2.csprojResolveAssemblyReference.cache
+D:\Proyek\Program\PCDApps2\PCDApps2\obj\Debug\PCDApps2.Form1.resources
+D:\Proyek\Program\PCDApps2\PCDApps2\obj\Debug\PCDApps2.Properties.Resources.resources
+D:\Proyek\Program\PCDApps2\PCDApps2\obj\Debug\PCDApps2.csproj.GenerateResource.cache
+D:\Proyek\Program\PCDApps2\PCDApps2\obj\Debug\PCDApps2.csproj.CoreCompileInputs.cache
+D:\Proyek\Program\PCDApps2\PCDApps2\obj\Debug\PCDApps2.exe
+D:\Proyek\Program\PCDApps2\PCDApps2\obj\Debug\PCDApps2.pdb
